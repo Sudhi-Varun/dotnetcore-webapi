@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\employee.html",
+      "PackagePath": "staticwebassets\\employee.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\employer.html",
+      "PackagePath": "staticwebassets\\employer.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\form1.html",
+      "PackagePath": "staticwebassets\\form1.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\form2.html",
+      "PackagePath": "staticwebassets\\form2.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\formdep.html",
+      "PackagePath": "staticwebassets\\formdep.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\html playground.html",
+      "PackagePath": "staticwebassets\\html playground.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\Payslip.png",
+      "PackagePath": "staticwebassets\\images\\Payslip.png"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\ajax-spinner.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-spinner.gif"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\best_emp.jpg",
+      "PackagePath": "staticwebassets\\images\\best_emp.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\calender.png",
+      "PackagePath": "staticwebassets\\images\\calender.png"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\dp-place-holder.jpg",
+      "PackagePath": "staticwebassets\\images\\dp-place-holder.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\emp-mnth.jpg",
+      "PackagePath": "staticwebassets\\images\\emp-mnth.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\emp-profile-edit.jpg",
+      "PackagePath": "staticwebassets\\images\\emp-profile-edit.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\employee-referral.jpg",
+      "PackagePath": "staticwebassets\\images\\employee-referral.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\inbox.jpg",
+      "PackagePath": "staticwebassets\\images\\inbox.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\learning.jpg",
+      "PackagePath": "staticwebassets\\images\\learning.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\manage-profile.png",
+      "PackagePath": "staticwebassets\\images\\manage-profile.png"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\notices.jpg",
+      "PackagePath": "staticwebassets\\images\\notices.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\office.jpg",
+      "PackagePath": "staticwebassets\\images\\office.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\request.png",
+      "PackagePath": "staticwebassets\\images\\request.png"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\resume.jpg",
+      "PackagePath": "staticwebassets\\images\\resume.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\images\\search-emp.jpg",
+      "PackagePath": "staticwebassets\\images\\search-emp.jpg"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\index 1.html",
+      "PackagePath": "staticwebassets\\index 1.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\js\\employee.js",
+      "PackagePath": "staticwebassets\\js\\employee.js"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\js\\employer.js",
+      "PackagePath": "staticwebassets\\js\\employer.js"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\js\\indexstart.js",
+      "PackagePath": "staticwebassets\\js\\indexstart.js"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\js\\indjs.js",
+      "PackagePath": "staticwebassets\\js\\indjs.js"
+    },
+    {
+      "Id": "C:\\MyRepos\\project1\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.project1.props",
+      "PackagePath": "build\\project1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.project1.props",
+      "PackagePath": "buildMultiTargeting\\project1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.project1.props",
+      "PackagePath": "buildTransitive\\project1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.project1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
